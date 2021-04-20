@@ -1,19 +1,19 @@
 Javascript Elements Maker
 
-Membuat sebuah elemen :
+Membuat sebuah elemen :<br>
 .elemenMaker(classParent, nameElement, className)
 
-masukan text :
+masukan text : <br>
 .eleText(yourText) //Its work with html
 
-gabungkan semuanya :
+gabungkan semuanya :<br>
 .gabung()
 
 Example : 
 (index.html)
-<div class="root"></div>
+<code><div class="root"></div></code>
 (script.js)
-const elemen = new YadiElementer();
+const elemen = new YadiElementer();<br>
 
 elemen.elementMaker(".root", "div", "second").eleText("Hello world").gabung();
 
