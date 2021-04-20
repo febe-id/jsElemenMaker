@@ -11,7 +11,8 @@ gabungkan semuanya :<br>
 
 Example : 
 (index.html)<br>
-< div class="root"></ div> // U can use another tag
+< div class="root"></ div> // U can use another tag<br>
+
 (script.js)<br>
 const elemen = new YadiElementer();<br>
 
