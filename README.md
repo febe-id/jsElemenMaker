@@ -11,7 +11,7 @@ gabungkan semuanya :<br>
 
 Example : 
 (index.html)<br>
-<xmp><div class="root"></div></xmp>
+<pre><div class="root"></div></pre>
 (script.js)<br>
 const elemen = new YadiElementer();<br>
 
